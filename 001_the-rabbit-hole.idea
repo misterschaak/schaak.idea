@@ -1,18 +1,35 @@
 THE RABBIT HOLE
 
-It always surprises me how deep rabbit holes go. It shouldn't. I've seen the Matrix. Hell, I've been down more than my share - metaphorically.
+It always surprises me how deep rabbit holes go. It shouldn't. 
+I've seen the Matrix. Hell, I've been down more than my share 
+- metaphorically.
 
-Oh sure, just start a blog using Git, it'll be easy, No formatting. No images, Just fire up Vim and bash one out when the mood strikes. Simple.
+Oh sure, just start a blog using Git, it'll be easy, No formatting. 
+No images, Just fire up Vim and bash one out when the mood strikes. Simple.
 
 Well...
 
-You see, I thought it would be a good idea to use gpg to sign my commits. I'd used it before - a long while ago when I originally ran Linux as my desktop OS. Back when Quake 3 Arena was a thing and I relished in the idea of trying to optimise frame buffers (on one side of technology) but also used Pine and BitchX (on the other side).
+You see, I thought it would be a good idea to use gpg to sign my commits. 
+I'd used it before - a long while ago when I originally ran Linux as 
+my desktop OS. Back when Quake 3 Arena was a thing and I relished in the 
+idea of trying to optimise frame buffers (on one side of technology) 
+but also used Pine and BitchX (on the other side).
 
-The mental hurdals began when I rembererd that I have multiple machines I bounce between. A Mac for work stuffs, a Windows PC for home stuffs ^ streaming, and a burgeoning re-intersest in running Linux on the desktop (more of that adventure in the future). 
+The mental hurdals began when I rembererd that I have multiple machines 
+I bounce between. A Mac for work stuffs, a Windows PC for home stuffs 
+and streaming, and a burgeoning re-intersest in running Linux on the desktop 
+(more of that adventure in the future). 
 
 So the harsh reality that befalls everyone in this situation also be-fell me...
 
-Do I have one master key or multiple; and how do I handle that; and how do I keep the keys safe, because physical security is a thing; and do I want to be managing and keeping track of a bunch of keys; but what if I get a hardware security device to avoid that hassle, but I realy don't want to have to pull a keychain out every time I need to sign a commit, but it does simplify it all, oh hey, what are sub keys??... Throw in a muliti-tab research stop at every point to weigh up the pros and cons of it all, and it all kinda became tomorrows problem,
+Do I have one master key or multiple; and how do I handle that; and how do 
+I keep the keys safe, because physical security is a thing; and do I want to 
+be managing and keeping track of a bunch of keys; but what if I get a 
+hardware security device to avoid that hassle, but I realy don't want to 
+have to pull a keychain out every time I need to sign a commit, but it does 
+simplify it all, oh hey, what are sub keys??... Throw in a muliti-tab research 
+stop at every point to weigh up the pros and cons of it all, and it all 
+kinda became tomorrows problem,
 
 For a whole week.
 
@@ -20,11 +37,16 @@ Because I was distracted with other projects.
 
 Again.
 
-The good news is that I think I've finally figured out a system that enables me to push verified commits to github across multiple platforms. It's taken a rethink on exactly how and where I run things, but in the end I think I like this way more. The best part is that I feel smart for having figured it all out.
+The good news is that I think I've finally figured out a system that enables 
+me to push verified commits to github across multiple platforms. It's taken 
+a rethink on exactly how and where I run things, but in the end I think I 
+like this way more. The best part is that I feel smart for having figured 
+it all out.
 
 Which is what I've missed most about the wild west of early Linux adoption.
 
-It's a slighhtly more streamlined process now but, I'm glad that the sense of accomplishment hasn't completely gone away.
+It's a slighhtly more streamlined process now but, I'm glad that the sense 
+of accomplishment hasn't completely gone away.
 
 Now about that hardware key...
 
