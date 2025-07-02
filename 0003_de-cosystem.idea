@@ -1,32 +1,58 @@
 DE-COSYSTEM
 
-I never consciously fell into a Google eco-system. I've used Google ever since it was a .org and during an email address decommissioning, just kinda ended up using Gmail more and more. I was bouncing between a few computers (work and home) and it just made sense in the grand scheme of life.
+I never consciously fell into a Google eco-system. I've used Google ever since 
+it was a .org and during an email address decommissioning, just kinda ended up 
+using Gmail more and more. I was bouncing between a few computers (work and home) 
+and it just made sense in the grand scheme of life.
 
-I bought an iPhone, used a Mac for work, played games and stremed from Windows and piece-by-piece, Google home crept into my... well... home.
+I bought an iPhone, used a Mac for work, played games and stremed from Windows 
+and piece-by-piece, Google home crept into my... well... home.
 
-Gradually the ecosystems built themselves around me, and that's kinda how they're designed right. You don't wake up one day and say "Let's lock ourselves into this Google thing, they seem trustworthy".You are the frog in the tech giants pot of slowly boiling water.
+Gradually the ecosystems built themselves around me, and that's kinda how they're 
+designed right. You don't wake up one day and say "Let's lock ourselves into this 
+whole Google thing, they seem trustworthy".You are the frog in the tech giants 
+pot of slowly boiling water.
 
-And at one time Google did seem trustworthy - or at least the lesser of a lot of evils. It was either Gmail or Hotmail (a pretty low bar to be honest).
+And at one time Google did seem trustworthy - or at least the lesser of a lot of evils. 
+It was either Gmail or Hotmail (a pretty low bar to be honest).
 
-But here I sat. A long way from when I last ran Linux as a desktop. Which honestly was at a time when the support just wasn't there for a lot of the things I needed day to day. Games were the huge one. Last time I'd installed Linux the gaming options were pretty slim (and that's from someone who was in a Linux gaming club).
+But here I sat. A long way from when I last ran Linux as a desktop. Which honestly 
+was at a time when the support just wasn't there for a lot of the things I needed 
+day to day. Games were the huge one. Last time I'd installed Linux the gaming options 
+were pretty slim (and that's from someone who was in a Linux gaming club).
 
-Rewind to a couple of months ago (Or is it fast forward? Where are we in the timeline?) and during a clean up I found my Raspberry Pi 4. I thought it might be interesting to install Linux on it and see what I could do with it. One Debian install later (the distro I used to run all those years ago) and I was reminded of the joy of starting from scrach.
+Rewind to a couple of months ago (Or is it fast forward? Where are we in the timeline?) 
+and during a clean up I found my Raspberry Pi 4. I thought it might be interesting 
+to install Linux on it and see what I could do with it. One Debian install later 
+(the distro I used to run all those years ago) and I was reminded of the joy of starting 
+from scrach.
 
-Suddenly the OS wasn't telling me to sign up to things, or sync stuff to a cloud and browsers weren't fighting for my attenton.
+All of a sudden the OS wasn't telling me to sign up to things, or sync stuff to a cloud 
+and browsers weren't fighting for my attenton.
 
 It just sat there waiting for me to do my thing, and I'd forgoten what that felt like.
 
 SPOILER: It feels very liberating.
 
-Suddenly the tool you have at your fingertips is not only a powerful desktop alternative but also the same tool that runs the backend of major companies and the majority of the internet.
+Now the tool you have at your fingertips is not only a powerful desktop alternative but 
+also the same tool that runs the backend of major companies and the majority of the internet.
 
 Linux be like that.
 
-Now just a few months back into the worl of Open Source software, I'm running a VPN, File Server, DNS and a Reverse Proxy for some internal server stuff. I've retrieved my files from the random assortment of external hard drives I've amassed and cloud services I've foolishly trusted; cancelled my DropBox subscription; and I'm well on the way to cancelling my GoogleDrive subscription as well. I definitely own a few more Raspberry Pi 4s. but I also have a lot more little blinky network lights reminding me that my data is a little more my own.
+Now just a few months back into the world of Open Source software, I'm running a VPN, 
+File Server, DNS and a Reverse Proxy for some internal server stuff. I've retrieved my 
+files from the random assortment of external hard drives I've amassed, and cloud services 
+I've foolishly trusted; cancelled my DropBox subscription; and I'm well on the way to 
+cancelling my GoogleDrive subscription as well. I definitely own a few more Raspberry Pi 4s, 
+but I also have a lot more little blinky network lights reminding me that my data is a 
+little more my own.
 
-I'm about to install Debian on and old Thinkpad and really test out how far I can extricate myself from the not-so-loving embrace of the big-tech ecosystems. 
+I'm about to install Debian on and old Thinkpad and really test out how far I can extricate 
+myself from the not-so-loving embrace of the big-tech ecosystems. 
 
-There will be things I can't replace (like my office supplied Mac laptop). But there are also more things that I can take control of so I think that trade-off will be a good one - for now.
+There will be things I can't replace (like my office supplied Mac laptop). But there are 
+also more things that I can take control of, so I think that trade-off will be a good one 
+- for now.
 
 It's good to be back.
 
