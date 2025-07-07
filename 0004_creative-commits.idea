@@ -1,0 +1,43 @@
+CREATIVE COMMITS
+
+I partly started the .ideas project becuase I felt I needed a place to 
+put my occasional rambling thoughts, but also partly because I wanted 
+to learn the ins-and-outs of git.
+
+What I wasn't prepared for was discovering exactly how simmilar 
+versioned commits are to what takes plece during the creative process.
+
+In creative projects, like code, people really ony see the finished 
+product - the bit at the end where you're satified everything is the 
+best it can be, and you decide it's time to send it our into the big, 
+bad, scary world (or the deadline hits and you run out of time to 
+fix all the things).
+
+I've gone through that process too many times to mention; website 
+launches, albums, video clips, blogs, merch, campaign launches, etc - 
+every single one filled with and extraordiary amount of revisions, 
+fixes, rethinks, and redos. Sometimes you might get it right the 
+first time, but more often than not, while the core idea might stay 
+the same, the actual execution evolves over many rounds of adustments 
+and coffees.
+
+It became apparent very quicly how the process of committing and pushing 
+to GitHub was simmilar to the process creatives go through when working 
+on a project. Not only that, but becuase git keeps track of who made 
+which change to what, it gives you a very open and granular view over a 
+whole project. It's a very powerful thing, to not only be able to go 
+back in time and see past changes and variations on approaches, but also 
+understand why the updates were made in the first place.
+
+The part that would be infinitely valuable in any creative project is 
+instantlt being able to see who made file updates and why. Having to 
+put your name (and verified key) to a commit really makes you think 
+about what it is you're about to submit for everyone to see.
+
+I'm still feeling my way around the git system, but I can already see 
+how powerful a tool it is for developers, and could be when applied to 
+more creative projects.
+
+Even if I do mainly use it for fixing spelling mistakes.
+
+Schaak
