@@ -1,0 +1,65 @@
+DIFFICULTER
+
+By now, it shoudln't be any surprise to anyone that I prefer doing things
+in a way that makes me learn something, and to a lot of people that's 
+indistinguishable from doing things the difficult way. Yeah i know there's
+a way to use git to automagically manage and deploy a blog like this, 
+so it looks fancy and uses markdown to make things all pretty. 
+I love pretty stuff. I'm a creative and a designer, it's my job. 
+But there's a big difference in doing things in a difficult way because 
+you don't know any better, and purposefully putting yourself in a 
+difficult position as a means to an end. 
+
+It's very easy to do things the easy way. That no surprise, it's right 
+there in the name. And sometimes thats the preferble way, like when you 
+just need a thing done right now and you don't care about the 'how'. 
+That a fine road to take when it's Friday night and you want pizza and 
+garlic bread and you only want to wait 3 minutes, but less so when you're 
+trying to learn something, or make a change. For a lot of people though, 
+the easy way is the only way. "Give me convienience or give me death" 
+as the Dead Kennedys famously said.
+
+Sometimes when I set out learn something and I end up in a place where 
+things feel too easy, I realise I've gone the wrong way. And that means 
+turning the car around and going back a few stops.
+
+I bought an old Thinkpad, an L480 to be precise. It's pretty stock 
+standard with 8gb ram, 256gb ssd and a 720 screen. Nothing fancy but 
+I've read they're great for running Linux and you can upgrade them to 
+be a good machine - I have plans *side-eyes*.
+
+The first plan was to install Debian, my distro of choice, and get it 
+up and running, I ran Debian when I originally used Linux as a desktop 
+OS a bunch of years ago, so I feel most at home there. I like their 
+philosophy, some say the stable tree is a little outdated but on this 
+hardware for what I needed it was going to be perfect.
+
+After messing around with the bios to turn any Windows specific corporate 
+management stuff off, the Bookworm install was flawless, I booted to a 
+fresh KDE Plasma desktop and everything was working perfectly.
+
+Yay! Wait... hold-up...
+
+That was easy.
+
+I mean, good job Debian for making that so smooth, it's the Linux 
+experience we need for broader adoption, But I wanted to know about 
+the HOW. So I wiped my fancy, fresh, working, installation and reinstalled
+a bare bones version. I booted into the black screen and flashing login 
+prompt and I was on may way. 
+
+I've defnitely learnt a whole bunch since then. Using the command line to 
+set up wifi, and networked storage, and battery monitoring, and email, 
+and audio. I will admit that I almost gave up the path almost at bluetooth
+but it turned out to be the actual hardware card. 
+
+But now I'm typing this from my beloved ThinkPad, running Bookworm with 
+AwesomeWM and only the programs I need.
+
+Do I feel more in control of my PC? Yes. 
+Is this road for eyeryone? Absolutely not. 
+Would I do it again? You're damn right I will.
+
+I'll see you on the difficult path.
+
+Schaak
